@@ -1,2 +1,3 @@
 test branch master and  dev
 diff branch commit in dev
+commit in branch master
